@@ -17,9 +17,9 @@ jobs:
           script: |
             # =========================================================
             # CONFIGURAÇÃO DO GRUPO (Altere os 3 valores abaixo)
-            PASTA_DO_PROJETO="professor"
-            NOME_DO_CONTAINER="app-professor"
-            PORTA_EXTERNA="8080"
+            PASTA_DO_PROJETO="ytalo"
+            NOME_DO_CONTAINER="app-ytalo"
+            PORTA_EXTERNA="8095"
             # =========================================================
 
             cd /home/aula/$PASTA_DO_PROJETO
