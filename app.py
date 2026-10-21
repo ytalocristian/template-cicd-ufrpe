@@ -9,7 +9,7 @@ fake = Faker('pt_BR')
 
 # =======================================================================
 # Altere o nome abaixo no GitHub para testar o CI/CD
-NOME_DA_EQUIPE = "Ytalo Cristian (template)"
+NOME_DA_EQUIPE = "Ytalo Cristian"
 COR_DO_TEMA = "#064e3b" 
 # =======================================================================
 
